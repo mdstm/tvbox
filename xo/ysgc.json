@@ -1,4 +1,4 @@
-﻿{
+{
 "dtUrl":"https://www.ysgc.fun/voddetail/{vid}.html",
 "dtNode":"//body",
 "dtName":"//div[@class='myui-content__thumb']/a/@title",
