@@ -1,5 +1,6 @@
 {"sites":[
-{"key":"ysgc","name":"影视工厂","ext":"https://cdn.staticaly.com/gh/mdstm/tvbox/main/xo/ysgc.json","api":"csp_XPathFilter","filterable":1,"searchable":1,"quickSearch":1,"type":3}
+{"key":"ysgc","name":"影视工厂","ext":"https://cdn.staticaly.com/gh/mdstm/tvbox/main/xo/ysgc.json","api":"csp_XPathFilter","filterable":1,"searchable":1,"quickSearch":1,"type":3},
+{"key":"zxzj","name":"在线之家","ext":"https://cdn.staticaly.com/gh/mdstm/tvbox/main/xo/zxzj.json","api":"csp_XPath","filterable":0,"searchable":1,"quickSearch":1,"type":3}
 ],
 "spider":"https://cdn.staticaly.com/gh/mdstm/tvbox/main/spider.jar;md5;e43a84197bf0dcac50990fbc7f2ca470",
 "parses":[],
